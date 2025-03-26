@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @RealEyeStye
-- 👀 I’m interested in sport, videogames, etc
-- 🌱 I’m currently learning maths at school
-- 💞️ I’m looking to collaborate on youtube channel
-- 📫 How to reach me : text me
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: no
+Yo. I'm a pyhton and javascript developper. Here yiu can find my jobs and projects. 
+If you want to text me, my discord is : eyestye.
+Enjoy my work !
 
 <!---
 RealEyeStye/RealEyeStye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

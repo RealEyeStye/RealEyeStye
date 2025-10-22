@@ -1,5 +1,6 @@
 Yo ! I'm a french python and javascript developper. Here you can find my jobs and projects. 
-If you want to text me, my discord is cb5w
+If you want to text me, my discord is cb5w.
+
 Enjoy my work !
 
 <!---
